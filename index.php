@@ -54,12 +54,12 @@ if (isset($_SESSION['errors'])) {
         ?>
       </div>
       <p class="recover">
-        <a href="#">Recover Password</a>
+        <a href="forgot_password.php">Recover Password</a>
       </p>
       <input type="submit" class="btn" value="Sign In" name="signin">
     </form>
     <p class="or">
-      ----------or--------
+      ----------or----------
     </p>
     <div class="icons">
       <i class="fab fa-google"></i>
